@@ -1,4 +1,4 @@
-![logo](https://github.com/GaneshPathak2020/GaneshPathak2020/blob/main/banner.png)
+![logo](https://github.com/GaneshPathak2020/GaneshPathak2020/blob/main/banners.png)
 <h1 align="center">Hi 👋, I'm Ganesh Pathak</h1>
 <h3 align="center">Hi !! I am passionate software developer and Data Scientist with learning and innovating attitude. Currently working on many stuffs. On my way to endless journey of Data !!</h3>
 
