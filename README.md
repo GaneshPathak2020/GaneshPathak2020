@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Pathak</h1>
 <h3 align="center">Hi !! I am passionate software developer and Data Scientist with learning and innovating attitude. Currently working on many stuffs. On my way to endless journey of Data !!</h3>
 
-<img align="right" alt="coding"width="400"src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **Data Science project**
 
 - 💬 Ask me about **Data Science, Machine Learning, Python, Deep Learning**
